@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="72px" height="72px" viewBox="0 0 72 72" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 61.2 (89653) - https://sketch.com -->
+    <title>ic-web</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-2" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Portfolio-Template-1" transform="translate(-199.000000, -1500.000000)">
+            <g id="What-I-Do" transform="translate(199.000000, 1461.000000)">
+                <g id="ic-web" transform="translate(0.000000, 39.000000)">
+                    <circle id="Oval-Copy" fill="#F67445" cx="36" cy="36" r="36"></circle>
+                    <path d="M29.3025538,26 L20.5153684,34.6206897 C19.8282105,35.2948276 19.8282105,36.3844828 20.5153684,37.0586207 L29.3025538,45.6793103 L31.7875698,43.2413793 L24.2428924,35.8396552 L31.7875698,28.437931 L29.3025538,26 Z M51.1193776,34.6206897 L42.3321922,26 L39.8471762,28.437931 L47.3918535,35.8396552 L39.8471762,43.2413793 L42.3321922,45.6793103 L51.1193776,37.0586207 C51.8065355,36.3844828 51.8065355,35.2948276 51.1193776,34.6206897 Z" id="Shape" fill="#FFFFFF" fill-rule="nonzero"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
